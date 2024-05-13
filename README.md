@@ -6,7 +6,7 @@ Bienvenido al repositorio del proyecto dobre los suicidios en Argentina.
 Este repositorio contiene un conjunto de scripts para la limpieza de datos y visualización de una base de datos pública (https://datos.gob.ar/ar/dataset?tags=Suicidios).
 
 ## Contenido del Repositorio
-- dataclean [https://github.com/jtbigdata/SuicidioenArgentina/blob/main/SuicidiosArgentina.ipynb] (https://github.com/jtbigdata/SuicidioenArgentina/blob/main/SuicidiosArgentina.ipynb): Script para limpieza de datos.
+- dataclean [SuicidiosArgentina.ipynb] (SuicidiosArgentina.ipynb): Script para limpieza de datos.
 - [visualizations.ipynb]([visualizations.ipynb](https://github.com/jtbigdata/SuicidioenArgentina/blob/main/Dashboard2.py)): Cuaderno Jupyter con visualizaciones de datos.
 <!-- Agrega más elementos según sea necesario -->
 
